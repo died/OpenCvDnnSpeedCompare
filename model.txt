@@ -1,0 +1,3 @@
+VGG_VOC0712Plus_SSD_512x512_ft_iter_160000.caffemodel
+
+You can download it from https://github.com/weiliu89/caffe/tree/ssd#models 
