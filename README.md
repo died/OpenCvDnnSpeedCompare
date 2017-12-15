@@ -8,6 +8,7 @@ This is a simple test using OpenCv DNN module load [SSD](https://github.com/weil
 ##### C# 
 * .NET Framework 4.7
 * EmguCV 3.3.0.2824
+* OpenCvSharp 3.3.1.20171117 :new: 
 ##### C++
 * VC14
 * OpenCv 3.3.1
@@ -23,6 +24,7 @@ This is a simple test using OpenCv DNN module load [SSD](https://github.com/weil
 ![result chart](https://i.imgur.com/fjbCs3z.png "OpenCV DNN Speed Test Result")
 #### RunTime
 * Python with OpenCV: 1510 ms
+* C# with OpenCvSharp: 1917 ms :new:
 * C# with EmguCV: 4041 ms
 * C++ with OpenCV: 9306 ms
 
