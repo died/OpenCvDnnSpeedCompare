@@ -26,10 +26,17 @@ This is a simple test using OpenCv DNN module load [SSD](https://github.com/weil
 * Python with OpenCV: 1510 ms
 * C# with OpenCvSharp: 1917 ms :new:
 * C# with EmguCV: 4041 ms
-* C++ with OpenCV: 9306 ms
+* C++ with OpenCV: 9306 ms  
 
+
+## Source Code
+* Python : OpenCvSSD.py
+* C++ : OpenCvSsdCplus.cpp
+* C# EmguCV : emguCvSsd.cs
+* C# OpenCvSharp : OpenCvSharpDnn\
 ---
 
-More detail please check [here](http://www.died.tw/2017/11/opencv-dnn-speed-compare-in-python-c-c.html).  
+More detail please check blog article: [OpenCV DNN speed compare in Python, C#, C++](http://www.died.tw/2017/11/opencv-dnn-speed-compare-in-python-c-c.html).  
+2017/12/15 add [OpenCvSharp Dnn Test](http://www.died.tw/2017/12/c-opencvsharp-dnn-test-with-ssd.html).
 
 ---
